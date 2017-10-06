@@ -1,3 +1,27 @@
+# This repository is deprecated
+
+>	I do not work anymore on Liferay 7 support for XML Portlet Factory.
+>
+>	Now I contribute to [Damascus](https://github.com/yasuflatland-lf/damascus) project, the natural successor of XML Portlet Factory.
+>
+>	Sébastien Le Marchand
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 xmlportletfactory
 =================
 XMLPortletFactory is a software tool that creates database tables maintenance (CRUD) portlets from XML files.  Portlets generated only work on Liferay portals, and come out with source files (JSPs, .java, etc.) so programmers can extend and modify whatever is being generated to suit your software development needs.  In Help and Support section you will find Wikis, Tutorials and samples to get started.
