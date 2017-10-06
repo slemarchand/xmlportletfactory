@@ -1,13 +1,18 @@
 # This repository is deprecated
 
 >	I do not work anymore on Liferay 7 support for XML Portlet Factory.
-
+>
 >	Now I contribute to [Damascus](https://github.com/yasuflatland-lf/damascus) project, the natural successor of XML Portlet Factory.
-
+>
 >	- Sébastien Le Marchand
 
+
+
+
 ___
-___
+
+
+
 
 
 # XML Portlet Factory
