@@ -5,21 +5,23 @@
 >	Now I contribute to [Damascus](https://github.com/yasuflatland-lf/damascus) project, the natural successor of XML Portlet Factory.
 >
 >	Sébastien Le Marchand
-  
-  
-  
-  
-  
-  
-___
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-   
-  
-  
-  
-  
-  
-  
 # XML Portlet Factory
 
 The XML Portlet Factory is a command line java tool that generate CRUD portlets from XML files, using Service Builder. 
